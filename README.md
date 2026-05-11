@@ -79,9 +79,9 @@ Download the three ONNX models and place them in the `models/` folder:
 
 | Model | Task | Params | Size | Download |
 |-------|------|--------|------|----------|
-| `mask2former_tiny.onnx` | Semantic segmentation | 1.165 M | 4.63 MB | [Link](...) |
-| `yolov8n.onnx` | Street-level detection (COCO) | 3.2 M | 12.26 MB | [Link](...) |
-| `car_aerial_detection_yolo7_ITCVD_deepness.onnx` | Aerial vehicle detection | ~6.0 M | 23.01 MB | [Link](...) |
+| `mask2former_tiny.onnx` | Semantic segmentation | 1.165 M | 4.63 MB | [Link](https://github.com/adrian-naziru/edge-ai-aerial-pipeline/blob/main/Models/mask2former_tiny.onnx) |
+| `yolov8n.onnx` | Street-level detection (COCO) | 3.2 M | 12.26 MB | [Link](https://github.com/adrian-naziru/edge-ai-aerial-pipeline/blob/main/Models/yolov8n.onnx) |
+| `car_aerial_detection_yolo7_ITCVD_deepness.onnx` | Aerial vehicle detection | ~6.0 M | 23.01 MB | [Link](https://github.com/adrian-naziru/edge-ai-aerial-pipeline/blob/main/Models/car_aerial_detection_yolo7_ITCVD_deepness.onnx) |
 
 > `yolov8n.onnx` and `yolov8n.pt` can also be exported directly from [Ultralytics](https://github.com/ultralytics/ultralytics):
 > ```bash
