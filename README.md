@@ -264,17 +264,6 @@ Real-time (≥ 10 FPS) is not achievable in multi-model CPU-only mode. NPU accel
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{naziru2025edgeai,
-  title     = {End-to-end Edge {AI} Pipeline for Vision Tasks on Aerial and Satellite Imagery},
-  author    = {Naziru, Adrian and Gherghel, Beatrice and Achirei, \c{S}tefan-Daniel},
-  booktitle = {Proceedings of ...},
-  year      = {2025}
-}
-```
-
 ---
 
 ## License
